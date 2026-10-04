@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Hanna Neelu",
+    "department": "Data Science",
+    "institution": "KJU",
+    "publications": 8,
+    "citations": 42,
+    "yearJoined": 2021
+  },
+  {
+    "id": 2,
+    "name": "Arjun Kumar",
+    "department": "Computer Science",
+    "institution": "KJU",
+    "publications": 5,
+    "citations": 27,
+    "yearJoined": 2023
+  },
+  {
+    "id": 3,
+    "name": "Meera Sharma",
+    "department": "Computer Science",
+    "institution": "KJU",
+    "publications": 12,
+    "citations": 61,
+    "yearJoined": 2019
+  },
+  {
+    "id": 4,
+    "name": "Rahul Thomas",
+    "department": "Data Science",
+    "institution": "KJU",
+    "publications": 9,
+    "citations": 35,
+    "yearJoined": 2020
+  },
+  {
+    "id": 5,
+    "name": "Ishita Rao",
+    "department": "Biotechnology",
+    "institution": "Bengaluru Institute",
+    "publications": 3,
+    "citations": 14,
+    "yearJoined": 2024
+  },
+  {
+    "id": 6,
+    "name": "Vikram Das",
+    "department": "Electronics",
+    "institution": "Bengaluru Institute",
+    "publications": 7,
+    "citations": 30,
+    "yearJoined": 2022
+  },
+  {
+    "id": 7,
+    "name": "Nisha George",
+    "department": "Computer Science",
+    "institution": "National Research Lab",
+    "publications": 10,
+    "citations": 52,
+    "yearJoined": 2018
+  },
+  {
+    "id": 8,
+    "name": "Kabir Shah",
+    "department": "Data Science",
+    "institution": "National Research Lab",
+    "publications": 4,
+    "citations": 18,
+    "yearJoined": 2023
+  }
+]

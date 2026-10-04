@@ -1,0 +1,15 @@
+{
+  "include": [
+    "phases"
+  ],
+  "extraPaths": [
+    "phases",
+    "phases/data",
+    "phases/phase1-core-data-handling",
+    "phases/phase2-structured-data",
+    "phases/phase3-searching-sorting",
+    "phases/phase4-data-optimization"
+  ],
+  "reportMissingImports": true,
+  "typeCheckingMode": "basic"
+}

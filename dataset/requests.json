@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "instrument": "GPU Workstation",
+    "requester": "Hanna Neelu",
+    "start": 1,
+    "end": 4,
+    "status": "Approved"
+  },
+  {
+    "id": 2,
+    "instrument": "GPU Workstation",
+    "requester": "Arjun Kumar",
+    "start": 3,
+    "end": 6,
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "instrument": "3D Printer",
+    "requester": "Ishita Rao",
+    "start": 2,
+    "end": 5,
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "instrument": "3D Printer",
+    "requester": "Kabir Shah",
+    "start": 6,
+    "end": 8,
+    "status": "Approved"
+  },
+  {
+    "id": 5,
+    "instrument": "Arduino Kit",
+    "requester": "Rahul Thomas",
+    "start": 4,
+    "end": 7,
+    "status": "Rejected"
+  },
+  {
+    "id": 6,
+    "instrument": "Spectrometer",
+    "requester": "Vikram Das",
+    "start": 5,
+    "end": 9,
+    "status": "Pending"
+  }
+]
